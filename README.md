@@ -1,6 +1,16 @@
 # Week 10
 
-### Day 68-69: July 26-27, Thursday-Friday.
+### Day 70: July 28, Saturday.
+
+**Today's Progress**: Power analysis.
+
+**Thoughts** 
+- Studied the power analysis in more detail.
+
+**Link(s) to work**
+[Code on Github](https://github.com/makarevichy/Week_10_100DaysOfCode/blob/master/weekday/Day_70.R)
+
+### Days 68-69: July 26-27, Thursday-Friday.
 
 **Today's Progress**: ANOVA/MANOVA.
 
@@ -10,7 +20,7 @@
 **Link(s) to work**
 [Code on Github](https://github.com/makarevichy/Week_10_100DaysOfCode/blob/master/weekday/Days_68_69.R)
 
-### Day 66-67: July 24-25, Tuesday-Wednesday.
+### Days 66-67: July 24-25, Tuesday-Wednesday.
 
 **Today's Progress**: Recommendation systems.
 
